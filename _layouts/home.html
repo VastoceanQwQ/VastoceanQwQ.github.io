@@ -7,7 +7,7 @@ titles:
   en-US   : *EN
   en-CA   : *EN
   en-AU   : *EN
-  zh-Hans : &ZH_HANS  瀚海驿站
+  zh-Hans : &ZH_HANS  主页
   zh      : *ZH_HANS
   zh-CN   : *ZH_HANS
   zh-SG   : *ZH_HANS
@@ -26,7 +26,9 @@ titles:
   # @end locale config
 show_title: false
 articles:
-  data_source: site.sample_page
+  data_source: paginator.posts
+  article_type: BlogPosting
+  show_cover: false
   show_excerpt: true
   show_readmore: true
   show_info: true
