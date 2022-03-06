@@ -36,8 +36,8 @@ timezone: # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for
 author:
   type      : # "person" (default), "organization"
   name      : "皓瀚海洋"
-  url       :
-  avatar    : "https://img.fy6b.com/2022/03/06/7dce31a986af6.png" # path or url of avatar image (square)
+  url       : "https://haohanhaiyang.github.io"
+  avatar    : "https://s2.loli.net/2022/03/06/84l2UiHboSDY9Vv.png" # path or url of avatar image (square)
   bio       : 
   email     :
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
@@ -122,7 +122,7 @@ comments:
 
   ## Disqus
   disqus:
-    shortname: haohanhaiyang # the Disqus shortname for the site
+    shortname: "haohanhaiyang" # the Disqus shortname for the site
 
   ## Gitalk
   # please refer to https://github.com/gitalk/gitalk for more info.
