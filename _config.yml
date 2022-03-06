@@ -38,7 +38,7 @@ author:
   name      : "皓瀚海洋"
   url       : "https://haohanhaiyang.github.io"
   avatar    : "https://s2.loli.net/2022/03/06/84l2UiHboSDY9Vv.png" # path or url of avatar image (square)
-  bio       : "这个网站好难弄啊QAQ"
+  bio       : "[站长]这个网站好难弄啊QAQ"
   email     :
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
   twitter   : # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
@@ -118,7 +118,7 @@ sharing:
 ## => Comments
 ##############################
 comments:
-  provider: valine # false (default), "disqus", "gitalk", "valine", "custom"
+  provider: disqus # false (default), "disqus", "gitalk", "valine", "custom"
 
   ## Disqus
   disqus:
