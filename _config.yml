@@ -38,7 +38,7 @@ author:
   name      : "皓瀚海洋"
   url       : "https://haohanhaiyang.github.io"
   avatar    : "https://s2.loli.net/2022/03/06/84l2UiHboSDY9Vv.png" # path or url of avatar image (square)
-  bio       : 
+  bio       : "这个网站好难弄啊QAQ"
   email     :
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
   twitter   : # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
@@ -142,7 +142,7 @@ comments:
     app_key     : "Bf703Q32UJhWjtlR012FIHP0" # LeanCloud App key
     placeholder : # Prompt information
     visitor     : # false (default)
-    meta        : # "[nick, mail, link]" (default) nickname, E-mail, Personal-site
+    meta        : [昵称, 邮箱, 个人链接] # "[nick, mail, link]" (default) nickname, E-mail, Personal-site
 
 
 ## => Pageview
