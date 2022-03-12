@@ -23,7 +23,7 @@ header:
       fr-LU   : *FR
       tr      : &TR       
       # @end locale config
-    url: /index.md
+    url: /
 
   - titles:
       # @start locale config
