@@ -7,6 +7,7 @@ header:
 article_header:
   type: overlay
   theme: dark
+  background_color: '#d1d1d1'
   background_image:
     src: https://s2.loli.net/2022/03/12/SwQbBuaO41Als5P.jpg
 ---
