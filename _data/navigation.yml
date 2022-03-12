@@ -49,8 +49,8 @@ header:
       fr-LU   : *FR
       tr      : &TR       
       # @end locale config
-      url: /home.html
-      
+    url: /home.html
+
   - titles:
       # @start locale config
       en      : &EN       Archive
