@@ -49,7 +49,7 @@ header:
       fr-LU   : *FR
       tr      : &TR       
       # @end locale config
-    url: /home.html
+    url: /home/index.html
 
   - titles:
       # @start locale config
