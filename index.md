@@ -38,9 +38,11 @@ article_header:
 
 <p align="center">ヾ(≧▽≦*)o</p>
 
-<p align="center">----------------------------------------------------------------------------------------------</p>
+<p align="center">-------------------------</p>
 
 <p align="center"><a href='/home.html'><span>博客</span></a> | <a href='/archive.html'><span>归档</span></a> | 上一个版本的<a href='/old.html'>页面</a> | 访问那个屑<span><a href='https://vast-ocean-awa.mysxl.cn/'><span>旧站</span></a></span></p>
 
 <p align="center"><span>本站托管于GitHub，如果哪一天突然访问不了属于正常现象，请坐和放宽</span></p>
+
+<p align="center"><span>推荐使用电脑或手机开启电脑/桌面模式浏览网站</span></p>
 
