@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: home
 title: 欢迎来到·瀚海驿站
 mode: immersive
 header:
