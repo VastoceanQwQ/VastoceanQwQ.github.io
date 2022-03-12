@@ -14,7 +14,7 @@ article_header:
 
 <!--more-->
 
-<p>&nbsp</p>
+<p align="center">&#160</p>
 
 <p align="center">欢迎来到瀚海驿站</p>
 
