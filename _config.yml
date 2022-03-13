@@ -37,7 +37,7 @@ author:
   type      : # "person" (default), "organization"
   name      : "皓瀚海洋"
   url       : "https://haohanhaiyang.github.io"
-  avatar    : "/files/img/touxiang.png" # path or url of avatar image (square)
+  avatar    : "https://cdn.jsdelivr.net/gh/haohanhaiyang/haohanhaiyang.github.io@2/files/img/touxiang.png" # path or url of avatar image (square)
   bio       : "[站长]这个网站好难弄啊QAQ"
   email     :
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
