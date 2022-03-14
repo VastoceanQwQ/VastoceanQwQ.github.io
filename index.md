@@ -22,9 +22,9 @@ article_header:
 
 <p align="center">· · · · · ·</p>
 
-<p align="center">所以你是怎么来到这里的？我一般不会直接透露主页位置的</p>
+<p align="center">桥豆麻袋!你是怎么来到这里的？我一般不会直接透露主页的位置啊</p>
 
-<p align="center">你应该在其他页面中四处逛逛，而不是跑来这里呀</p>
+<p align="center">你应该在其他的页面中逛逛，而不是跑来这里呀</p>
 
 <p align="center">算了，这里已经没有什么东西了，乖，去别的地方看看吧</p>
 
@@ -40,7 +40,7 @@ article_header:
 
 <p align="center"><a href='/home/index.html'><span>博客</span></a> | <a href='/archive.html'><span>归档</span></a> | 上一个版本的<a href='/old.html'>页面</a> | 访问那个屑<span><a href='https://vast-ocean-awa.mysxl.cn/'><span>旧站</span></a></span></p>
 
-<p align="center"><span>本站托管于GitHub，如果哪一天突然访问不了属于正常现象，请坐和放宽</span></p>
+<p align="center"><span>本站托管于GitHub，不定时抽风，如果访问不了了属正常现象，请坐和放宽</span></p>
 
-<p align="center"><span>推荐使用电脑或手机开启电脑/桌面模式浏览网站</span></p>
+<p align="center"><span>推荐使用电脑或手机开启电脑/桌面模式浏览本站</span></p>
 
