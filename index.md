@@ -9,7 +9,7 @@ article_header:
   theme: dark
   background_color: '#d1d1d1'
   background_image:
-    src: http://hhhy.atwebpages.com/random.php
+    src: https://img.hhhy.link/random.php
 ---
 
 <!--more-->
