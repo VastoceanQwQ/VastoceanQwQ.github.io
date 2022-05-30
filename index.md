@@ -9,7 +9,7 @@ article_header:
   theme: dark
   background_color: '#d1d1d1'
   background_image:
-    src: https://cdn.jsdelivr.net/gh/haohanhaiyang/haohanhaiyang.github.io@latest/files/img/000001.jpg
+    src: http://hhhy.atwebpages.com/random.php
 ---
 
 <!--more-->
