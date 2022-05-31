@@ -1,7 +1,7 @@
 ---
 layout: article
 title: 瀚海驿站 随机壁纸API
-permalink: /p00005/
+permalink: /p00005
 date: 2022-05-31 14:00:00 +0800
 sharing: true
 license: false
