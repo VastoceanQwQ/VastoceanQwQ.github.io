@@ -10,11 +10,12 @@ mode: immersive
 header:
   theme: dark
 article_header:
-  type: cover
+  type: overlay
+  theme: dark
   image:
     src: https://img.hhhy.link/random.php
 ---
-(为啥我每天都要做一些没用的东西啊awa)<!--more-->
+<!--more-->(为啥我每天都要做一些没用的东西啊awa)
 
 细想一下，其实也不是没用。本身我想给一些地方上随机动漫壁纸当背景图片，但在网上找了一圈基本没有满意的，稍微满意一点的图还太少。索性自己做一个API接口，还能自己决定图片，岂不美哉？
 
