@@ -12,7 +12,7 @@ header:
 article_header:
   type: overlay
   theme: dark
-  image:
+  background_image:
     src: https://img.hhhy.link/random.php
 ---
 <!--more-->(为啥我每天都要做一些没用的东西啊awa)
