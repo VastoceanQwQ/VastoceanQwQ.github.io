@@ -36,8 +36,7 @@ article_header:
 
 <p align="center">ヾ(≧▽≦*)o</p>
 
-# <p align="center">-------------------------</p>
-<hr>
+<p align="center">-------------------------</p>
 
 <p align="center"><a href='/home/index.html'><span>博客</span></a> | <a href='/archive.html'><span>归档</span></a> | 上一个版本的<a href='/old.html'>页面</a>
 
