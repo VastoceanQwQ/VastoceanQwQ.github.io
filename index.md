@@ -16,9 +16,9 @@ article_header:
 
 <p align="center"><br>欢迎来到瀚海驿站</p>
 
-<p align="center">历经一年的修改，网站终于正式上线了!</p>
+<p align="center">历经一年的修改，网站终于正式上线</p>
 
-<p align="center">(成功兑现大改网站的诺言[只不过花了3个月])</p>
+<p align="center">而且头图也终于用上自家的随机壁纸API了!</p>
 
 <p align="center">· · · · · ·</p>
 
@@ -36,11 +36,12 @@ article_header:
 
 <p align="center">ヾ(≧▽≦*)o</p>
 
-<p align="center">-------------------------</p>
+# <p align="center">-------------------------</p>
+<hr>
 
 <p align="center"><a href='/home/index.html'><span>博客</span></a> | <a href='/archive.html'><span>归档</span></a> | 上一个版本的<a href='/old.html'>页面</a>
 
-<p align="center"><span>本站托管于GitHub，不定时抽风，如果访问不了了属正常现象，请坐和放宽</span></p>
+<p align="center"><span>本站托管于外网(如Github等)，不定时抽风，如果突然访问不了属正常现象，请坐和放宽</span></p>
 
 <p align="center"><span>推荐使用电脑或手机开启电脑/桌面模式浏览本站</span></p>
 
