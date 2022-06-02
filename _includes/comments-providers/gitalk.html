@@ -31,7 +31,7 @@
 				owner: '{{ site.comments.gitalk.owner }}',
 				admin: [{{ _admin }}],
 				id: '{{ page.key }}',
-				<!-- proxy: '{{ theme.gitalk.proxy }}' -->
+				proxy: 'https://gitalk.hhhy.workers.dev/?https://github.com/login/oauth/access_token', <!--'{{ theme.gitalk.proxy }}' -->
 			});
 			gitalk.render('js-gitalk-container');
 		});
