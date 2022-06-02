@@ -7,8 +7,8 @@ sharing: true
 license: false
 key: p00005
 mode: immersive
-#cover: https://haohanhaiyang.gitee.io/img/nature/123.jpg
-#tags: ["网站开发", "API", "图片/壁纸"]
+cover: https://haohanhaiyang.gitee.io/img/nature/123.jpg
+tags: ["网站开发", "API", "图片/壁纸"]
 header:
   theme: dark
 article_header:
