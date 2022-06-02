@@ -131,7 +131,7 @@ comments:
     clientSecret: "d50e420973dd118aad63198abd876f4c399d615e" # GitHub Application Client Secret
     repository  : "pinglun" # GitHub repo
     owner       : "haohanhaiyang" # GitHub repo owner
-    proxy: https://cors-anywhere.azm.workers.dev/https://github.com/login/oauth/access_token
+    proxy: https://gitalk.hhhy.workers.dev/?https://github.com/login/oauth/access_token
     admin: # GitHub repo owner and collaborators, only these guys can initialize GitHub issues, IT IS A LIST.
       - "haohanhaiyang"
       # - your GitHub Id
