@@ -38,9 +38,14 @@ article_header:
 
 <p align="center">-------------------------</p>
 
+<!-- 这是一段聪明人才能发现的代码 awa 
 <p align="center"><a href='/home/index.html'><span>博客</span></a> | <a href='/archive.html'><span>归档</span></a> | 上一个版本的<a href='/old.html'>页面</a>
+-->
 
-<p align="center"><span>本站托管于外网(如Github等)，不定时抽风，如果突然访问不了属正常现象，请坐和放宽</span></p>
+<p align="center"><span>本站托管于外网,不定时抽风，如果突然访问不了属正常现象，请坐和放宽</span></p>
 
 <p align="center"><span>推荐使用电脑或手机开启电脑/桌面模式浏览本站</span></p>
 
+<p align="center">-------------------------</p>
+
+<p align="center"><span>想在下面发表一下你的看法吗？awa </span></p>

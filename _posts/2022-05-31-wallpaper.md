@@ -30,5 +30,3 @@ article_header:
 > [https://img.hhhy.link/](https://img.hhhy.link/)
 
 <del>(其实做这个不是很难，而且所有资源都是白嫖的[doge])</del>
-
-<div id="waline"></div>
