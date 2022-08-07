@@ -12,6 +12,8 @@ layout: none
       {%- include scripts/lib/throttle.js -%}
       {%- include scripts/lib/lazyload.js -%}
     </script>
+	<script src="https://unpkg.com/@waline/client@v2/dist/waline.js"></script>
+	<link rel="stylesheet" href="https://unpkg.com/@waline/client@v2/dist/waline.css" />
     {%- include scripts/variables.html -%}
   </head>
   <body>
@@ -21,5 +23,19 @@ layout: none
     <script>
       {%- include scripts/common.js -%}
     </script>
+	<script>
+		Waline.init({
+		  el: '#waline',
+		  serverURL: 'https://comment.hhhy.link',
+		  
+		  pageview: true, // 浏览量统计
+		  comment: true, // 评论数统计
+		  
+		  emoji: [
+			'//unpkg.com/@waline/emojis@1.0.1/weibo',
+			'//unpkg.com/@waline/emojis@1.0.1/bilibili',
+		  ],
+		});
+	</script>
   </body>
 </html>
