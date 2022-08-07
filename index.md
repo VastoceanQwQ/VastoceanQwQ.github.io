@@ -16,9 +16,13 @@ article_header:
 
 <p align="center"><br>欢迎来到瀚海驿站</p>
 
-<p align="center">历经一年的修改，网站终于正式上线</p>
+<p align="center">之前历经了一年的修改，网站终于正式上线</p>
 
-<p align="center">而且头图也终于用上自家的随机壁纸API了!</p>
+<p align="center">近期经过很长时间的折腾与折磨，本站的评论系统正式启用</p>
+
+<p align="center">且头图也终于用上自家的随机壁纸API了</p>
+
+<p align="center">不枉我这好几十个小时的折腾</p>
 
 <p align="center">· · · · · ·</p>
 
